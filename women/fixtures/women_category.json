@@ -1,0 +1,1 @@
+[{"model": "women.category", "pk": 1, "fields": {"name": "Acrtesses", "slug": "actresses"}}, {"model": "women.category", "pk": 2, "fields": {"name": "Singers", "slug": "singers"}}, {"model": "women.category", "pk": 3, "fields": {"name": "Sportwomen", "slug": "sportwomen"}}]

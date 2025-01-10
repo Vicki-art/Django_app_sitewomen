@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+
+{% block breadcrumbs %}
+{% with post.tag.all as tags %}
+{% if tags %}
+	<ul class="tags-list">
+		<li>Tags:</li>
+		{% for t in tags %}
+		<li><a href="{{t.get_absolute_url}}">{{t.tag}}</a></li>
+		{% endfor %}
+	</ul>
+{% endif %}
+{% endwith %}
+{% endblock %}
+
+{% block content %}
+<form method="post">{% csrf_token %}
+    <p>Are you sure you want to delete "{{ object }}"?</p>
+    {{ form }}
+    <input type="submit" value="Confirm">
+</form>
+{% endblock %}
