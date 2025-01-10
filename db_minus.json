@@ -1,0 +1,1405 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2024-09-30T09:10:33.683Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Angelina Jolie",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Slug\", \"Is published\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2024-09-30T09:10:33.685Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Cate Blanchett",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Slug\", \"Is published\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2024-09-30T09:10:33.687Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Britney Spears",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Slug\", \"Is published\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2024-09-30T09:10:33.688Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Anna Kournikova",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Is published\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2024-09-30T10:22:12.566Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Anna Kournikova",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Is published\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2024-09-30T10:22:12.567Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Britney Spears",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Is published\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2024-09-30T10:22:12.568Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Cate Blanchett",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Is published\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2024-09-30T10:22:12.568Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Angelina Jolie",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Is published\", \"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2024-09-30T12:30:50.916Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Anna Kournikova",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Is published\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2024-10-02T09:47:14.324Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Monica Bellucci",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2024-10-02T09:54:31.064Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Penelope Cruz",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2024-10-02T09:55:58.468Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Penelope Cruz",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2024-10-02T10:06:23.943Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "https://en.wikipedia.org/wiki/Madonna",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2024-10-02T10:06:49.003Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "Madonna Louise Ciccone",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Full name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2024-10-02T10:09:14.230Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "Madonna Louise Ciccone",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tag\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2024-11-06T12:18:23.313Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "16",
+    "object_repr": "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2024-11-06T12:18:23.314Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "15",
+    "object_repr": "jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2024-11-06T12:18:23.314Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "14",
+    "object_repr": "cvgbhnjm",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2024-11-06T13:59:13.354Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "17",
+    "object_repr": "Rihanna",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2024-11-06T14:00:05.621Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "13",
+    "object_repr": "Eva Longoria",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2024-11-06T14:00:43.674Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "12",
+    "object_repr": "Lana Del Rey",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2024-11-06T14:01:09.058Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "11",
+    "object_repr": "Vanessa Paradis",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2024-11-06T14:01:47.909Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "Serena Williams",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2024-11-06T14:02:28.633Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "Madonna",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Full name\", \"Photo\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2024-11-06T14:02:33.345Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "Madonna",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2024-11-06T14:03:06.350Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Penelope Cruz",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2024-11-06T14:03:41.763Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Monica Bellucci",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Content\", \"Photo\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2024-11-06T14:04:14.555Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Anna Kournikova",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2024-11-06T14:04:52.974Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Britney Spears",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Content\", \"Photo\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2024-11-06T14:05:28.035Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Cate Blanchett",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Content\", \"Photo\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2024-11-06T14:06:04.161Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Angelina Jolie",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2024-11-06T14:08:48.975Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Angelina Jolie",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2024-11-06T14:09:01.994Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Cate Blanchett",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2024-11-06T14:09:16.724Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Anna Kournikova",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add women",
+    "content_type": 7,
+    "codename": "add_women"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change women",
+    "content_type": 7,
+    "codename": "change_women"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete women",
+    "content_type": 7,
+    "codename": "delete_women"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view women",
+    "content_type": 7,
+    "codename": "view_women"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add category",
+    "content_type": 8,
+    "codename": "add_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change category",
+    "content_type": 8,
+    "codename": "change_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete category",
+    "content_type": 8,
+    "codename": "delete_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view category",
+    "content_type": 8,
+    "codename": "view_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add tag post",
+    "content_type": 9,
+    "codename": "add_tagpost"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change tag post",
+    "content_type": 9,
+    "codename": "change_tagpost"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete tag post",
+    "content_type": 9,
+    "codename": "delete_tagpost"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view tag post",
+    "content_type": 9,
+    "codename": "view_tagpost"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add husband",
+    "content_type": 10,
+    "codename": "add_husband"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change husband",
+    "content_type": 10,
+    "codename": "change_husband"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete husband",
+    "content_type": 10,
+    "codename": "delete_husband"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view husband",
+    "content_type": 10,
+    "codename": "view_husband"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add upload files",
+    "content_type": 11,
+    "codename": "add_uploadfiles"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change upload files",
+    "content_type": 11,
+    "codename": "change_uploadfiles"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete upload files",
+    "content_type": 11,
+    "codename": "delete_uploadfiles"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view upload files",
+    "content_type": 11,
+    "codename": "view_uploadfiles"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$870000$qQPwKCkXl2Nf8Vvze1x9qs$u6nQ7qazzqmWtj2i+oaFv/ph2nEoUXALOQZpWdtx6kg=",
+    "last_login": "2024-12-23T10:10:48.822Z",
+    "is_superuser": true,
+    "username": "art.victory",
+    "first_name": "",
+    "last_name": "",
+    "email": "art.victory@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-09-18T09:37:19.317Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$870000$0fX0CY3AuXfPPmy6zVixNE$RBEYtae6i69LrKVrCzhtH8Uo35RakHgi9vT5eo+UwiA=",
+    "last_login": "2024-12-20T13:46:23.368Z",
+    "is_superuser": false,
+    "username": "user1",
+    "first_name": "Jane",
+    "last_name": "Doe",
+    "email": "user1@mail.ru",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-12-20T09:33:39.028Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$870000$ZAnFbNQ1xZ1nmeD5cewc5q$L24JRYlLnxZFLI4ofMptfF44y0gbHV8vGlg3kLEnMXM=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "user2",
+    "first_name": "Jane",
+    "last_name": "Doe",
+    "email": "user2@mail.ru",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-12-20T09:36:31.929Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 4,
+  "fields": {
+    "password": "pbkdf2_sha256$870000$QJWEUobyy45KigBQSeMMad$oxrqmJ+c56jNImMUXirPI7gOme9yOCsvovWWnMpxE7g=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "user3",
+    "first_name": "Mike",
+    "last_name": "Doe",
+    "email": "user3@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-12-20T10:05:49.257Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 5,
+  "fields": {
+    "password": "pbkdf2_sha256$870000$I0I6KtXZPcuJTTa8xlXURO$1+SiaXTEeFPsuODkJ393lBg1Wz2Xvk2o/Q90uIDyMEg=",
+    "last_login": "2024-12-20T10:07:32.449Z",
+    "is_superuser": false,
+    "username": "user4",
+    "first_name": "Mike",
+    "last_name": "Doe",
+    "email": "user4@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-12-20T10:07:10.906Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "8kqmwj51kws9m8mw6a2ijq6btkmhrqbb",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAUBf-FtSGAyEWX7v2GhvtAqgaS0q6M_26bdKHbMzPnrYa0zGVYukzDyOqirDr8bpjoKXUD_Ej13jS1Ok8j6k3RO-361lhe1939Oyipl7VGcRSAwUdn_BEJBQnYE2br5QyIKJTZW2aIdOKYg2MrJjCsIJmoPl8e5Dmv:1svCVY:Ic2C_wmkh58e0qdfNCZWZyCGXYMNHisGvuo2WSeSPY8",
+    "expire_date": "2024-10-14T09:15:56.499Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "a4btoqxecg88ppclzjpe26usbj1hfdpi",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAUBf-FtSGAyEWX7v2GhvtAqgaS0q6M_26bdKHbMzPnrYa0zGVYukzDyOqirDr8bpjoKXUD_Ej13jS1Ok8j6k3RO-361lhe1939Oyipl7VGcRSAwUdn_BEJBQnYE2br5QyIKJTZW2aIdOKYg2MrJjCsIJmoPl8e5Dmv:1t8eyE:DeUV-mp5bEmK-TV7L49VCq0vrqPP8ldbUG8aRjVDe_4",
+    "expire_date": "2024-11-20T12:17:10.368Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "dlpk51fwocz994rj5wvzkfue9ypr1pzk",
+  "fields": {
+    "session_data": ".eJxVjDkOwjAURO_iGlkxXuJQ0nMG62_GARRLcVIh7k4ipQBpqnlv5q0SrEtJa5M5jawuyqjTb4dAT5l2wA-Y7lVTnZZ5RL0r-qBN3yrL63q4fwcFWtnWGY1jCOQkczjbgLkjGjj3A6J4CiAhbwHvTDR2EIwZiKPvoLeMiOrzBSt4OeY:1tPfOi:W7wsH4fZXXPZswxp2QUDcDm1EcpMxqCc-SvK0FGTwx0",
+    "expire_date": "2025-01-06T10:10:48.839Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "just8wpv6v1pcuvzb1rjybnfsxfo3wr7",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAUBf-FtSGAyEWX7v2GhvtAqgaS0q6M_26bdKHbMzPnrYa0zGVYukzDyOqirDr8bpjoKXUD_Ej13jS1Ok8j6k3RO-361lhe1939Oyipl7VGcRSAwUdn_BEJBQnYE2br5QyIKJTZW2aIdOKYg2MrJjCsIJmoPl8e5Dmv:1tOeIg:jpjNYsOaYXkCUj3ffD9oZxmQIpcTeqWpt-KboI0eq3k",
+    "expire_date": "2025-01-03T14:48:22.747Z"
+  }
+},
+{
+  "model": "women.women",
+  "pk": 1,
+  "fields": {
+    "title": "Angelina Jolie",
+    "slug": "angelina-jolie",
+    "content": "Jolie, daughter of actor Jon Voight, spent much of her childhood in New York before relocating to Los Angeles at age 11. She attended the Lee Strasberg Theatre and Film Institute for two years and then enrolled at Beverly Hills High School. She later studied drama at New York University. In addition to acting in theatre productions, she modeled and appeared in music videos.",
+    "photo": "photos/2024/11/06/Angelina_Jolie-643531_cropped.jpg",
+    "time_create": "2024-08-19T15:07:59.331Z",
+    "time_update": "2024-11-12T10:19:04.250Z",
+    "is_published": true,
+    "cat": 1,
+    "husband": 1,
+    "author": null,
+    "tag": [
+      2,
+      3,
+      5
+    ]
+  }
+},
+{
+  "model": "women.women",
+  "pk": 4,
+  "fields": {
+    "title": "Cate Blanchett",
+    "slug": "cate-blanchett",
+    "content": "Cate Blanchett was born on May 14, 1969 in Melbourne, Victoria, Australia, to June (Gamble), an Australian teacher and property developer, and Robert DeWitt Blanchett, Jr., an American advertising executive, originally from Texas. She has an older brother and a younger sister. When she was ten years old, her 40-year-old father died of a sudden heart attack. Her mother never remarried, and her grandmother moved in to help her mother.\r\n\r\nCate graduated from Australia's National Institute of Dramatic Art in 1992 and, in a little over a year, had won both critical and popular acclaim. On graduating from NIDA, she joined the Sydney Theatre Company's production of Caryl Churchill's \"Top Girls\", then played Felice Bauer, the bride, in Tim Daly's \"Kafka Dances\", winning the 1993 Newcomer Award from the Sydney Theatre Critics Circle for her performance. From there, Blanchett moved to the role of Carol in David Mamet's searing polemic \"Oleanna\", also for the Sydney Theatre Company, and won the Rosemont Best Actress Award, her second award that year. She then co-starred in the ABC Television's prime time drama Хартлэнд (1994), again winning critical acclaim. In 1995, she was nominated for Best Female Performance for her role as Ophelia in the Belvoir Street Theatre Company's production of \"Hamlet\". Other theatre credits include Helen in the Sydney Theatre Company's \"Sweet Phoebe\", Miranda in \"The Tempest\" and Rose in \"The Blind Giant is Dancing\", both for the Belvoir Street Theatre Company. In other television roles, Blanchett starred as Bianca in ABC's Бордертаун (1995), as Janie Morris in G.P. (1989) and in ABC's popular series Полицейский отряд спасения (1994). She made her feature film debut in Дорога в рай (1997).\r\n\r\nCate married writer Andrew Upton in 1997. She had met him a year earlier on a movie set, and they didn't like each other at first. He thought she was aloof, and she thought he was arrogant, but then they connected over a poker game at a party, and she went home with him that night. Three weeks later he proposed marriage and they quickly married before she went off to England to play her breakthrough role in films: the title character in Елизавета (1998) for which she won numerous awards for her performance, including the Golden Globe for Best Actress in a Drama. Cate was also nominated for an Academy Award for the role but lost out to Gwyneth Paltrow. 2001 was a particularly busy year, with starring roles in Бандиты (2001), Корабельные новости (2001), Шарлотта Грей (2001) and playing Elf Queen Galadriel in the \"Lord Of The Rings\" trilogy. She also gave birth to her first child, son Dashiell, in 2001. In 2004, she gave birth to her second son Roman.\r\n\r\nAlso, in 2004, she played actress Katharine Hepburn in Martin Scorsese's film Авиатор (2004), for which she received an Academy Award as Best Supporting Actress. Two years later, she received an Academy Award nomination as Best Supporting Actress for playing a teacher having an affair with an underage student in Скандальный дневник (2006). In 2007, she returned to the role that made her a star in Золотой век (2007). It earned her an Oscar nomination as Best Actress. She was nominated for another Oscar that same year as Best Supporting Actress for playing Bob Dylan in Меня там нет (2007). In 2008, she gave birth to her third child, son Ignatius. She and her husband became artistic directors of the Sydney Theatre Company, choosing to spend more time in Australia raising their three sons. She also purchased a multi-million dollar home in Sydney, Australia and named it Bulwarra and made extensive renovations to it. Because of her life in Australia, her film work became sporadic, until Woody Allen cast her in the title role in Жасмин (2013), which won her the Academy Award as Best Actress. She ended her job as artistic director of the Sydney Theatre Company, while her husband continued there for two more years before he too resigned.\r\n\r\nIn 2015, she adopted her daughter Edith in her father's homeland of the United States. That same year, she and her husband sold their multi-million dollar home in Australia at a profit and moved to America. Reasons varied from her wanting to work more in America to wanting to familiarize herself with her late father's American heritage. She played the title role of Кэрол (2015), a 1950s American housewife in a lesbian affair with a younger woman, for which she received an Oscar nomination as Best Actress. While most actresses might slow down in their forties, Blanchett did the opposite by stretching her boundaries even further, such as when she played 13 different characters in Манифесто (2015) and then making her Broadway debut in 2017 in \"The Present\", which is her husband's adaptation of Chekhov's play \"Platonov\" for which she earned a Tony nomination as Best Actress in a Play. Also in 2017, she was selected for the highest honor in her birth country: the Companion of the Order of Australia (AC).\r\n- IMDb Mini Biography By: Anonymous",
+    "photo": "photos/2024/11/06/Cate_Blanchett_at_81st_Venice_International_Film_Festival_2.jpg",
+    "time_create": "2024-08-19T15:31:16.295Z",
+    "time_update": "2024-11-06T14:09:01.988Z",
+    "is_published": true,
+    "cat": 1,
+    "husband": 3,
+    "author": null,
+    "tag": [
+      3
+    ]
+  }
+},
+{
+  "model": "women.women",
+  "pk": 5,
+  "fields": {
+    "title": "Britney Spears",
+    "slug": "britney-spears",
+    "content": "Britney Jean Spears was born on December 2, 1981 in McComb, Mississippi & raised in Kentwood, Louisiana. As a child, Britney attended dance classes, and she was great at gymnastics, winning many competitions and the like. But, most of all, Britney loved to sing. At age 8, Britney tried out for MMC (1989), but was turned down due to her young age. This directed her to an off-Broadway show, \"Ruthless\", for a 2-year run as the title character. At age 11, she again tried for MMC (1989) and, this time, made it as a mouseketeer alongside many stars of today (Justin Timberlake and JC Chasez of *NSYNC and Ryan Gosling). Her big break, however, came when she was signed as a Jive Recording Artist in the late 90s. With the release of her debut album, \"...Baby One More Time\" in early 1999, Britney became an international success, selling 13 million copies of \"Baby\" and 9 million (as of July 2001) of her sophomore album, \"Oops!...I Did It Again\", released in May of 2000.\r\n- IMDb Mini Biography By: Matt Zerby\r\nBritney was born to Lynne Spears & Jamie Spears, she has a big brother, Bryan Spears & a little sister, Jamie Lynn Spears. From a young age, Britney was always fixing to be a star with idols such as Madonna, Mariah Carey and Whitney Houston, the young Britney could always be heard singing, no matter what else was going on around her. After taking extensive dance and vocal lessons and performing in numerous talent shows and fairs, Britney auditioned for MMC (1989) TV series [1989-1994] when she 8, however, she was too young to get the part. Instead, Britney, her mother and baby sister moved to New York where she starred in several TV adverts and an off-Broadway play, \"Ruthless\", where she was understudy with Natalie Portman. Her love of music and dance took over and, 2 years later, she auditioned for a part on \"Mickey Mouse\" again and, this time, won the part along with Christina Aguilera and Justin Timberlake. As a Mouseketeer, Britney received extensive training in dance, drama and singing and had to grow up a lot during that time. However, after the show was canceled two years later, Britney returned home and did \"the normal teenager thing\", attending pool parties and she was also the Homecoming Queen. As a young teenager, Britney soon grew restless again and this time was desperate to become a star yet again. Again, she traveled to New York and sent out demo tapes to various labels including Sony and Mercury, but was turned down. It was Jive Records that finally took the young Britney on and set out on making her the star she is today.\r\n\r\nShe hit the studio with writers/producers, such as Max Martin and Eric Foster White, and the result was her debut album. In late 1998, Jive released her debut single \"(Hit me) Baby one more time\" which was a pop hit around the Globe, accompanied by the sixteen-year-old first of many controversial acts - the video, which featured Britney dressed in a Catholic schoolgirl uniform, baring her midriff, which was soon to become her trademark. Nonetheless, the single was a smash worldwide and Britney was instantly a household name. She toured with the popular boy band *NSYNC and the single shot to the top of the charts for 3 weeks. Her debut album was released a few months later in early 1999 and, like the single, took to the top of the album charts, where it remained number one for six weeks. The album has now sold millions worldwide and is officially 14 x platinum in the US. Her next controversial act, after the video, was to take the cover of Rolling Stones magazine in a suggestive pose, but as Britney mania took off, the 17-year-old became more and more popular. Appealing to young girls, teenage boys and older men, Britney was on her way, yet nobody could have predicted at that time the impact she would have on Pop Culture. The second single, \"Sometimes\", was released in June 1999 followed by the top 10 hit \"Crazy\" in September and \"from the bottom of my broken heart\" soon after. Britney ended 1999 selling over 10 million copies of her debut and, as the Billboard Top Female Pop Artist (singles and albums), Top New Pop Artist, Top Billboard 200 album Artist and Top 100 singles Artist - female. The American Awards, MTV and Teen Choice awards soon began rolling in and, in early 2000, Britney was nominated for two Grammy awards.\r\n\r\nAt just 18, Britney released her second album in 2000, the #1 smash \"Oops! I did it again\" and single of the same title, which topped the singles chart for 5 weeks. Smash singles \"Stronger\" and \"Lucky\" followed but, it was around this time, that Britney was beginning to raise more than a few eyebrows. It seemed some people weren't too happy with the message she was sending their impressionable young children. On one hand, Britney was the perfect picture of innocence, declaring herself a Virgin until marriage yet, on the other hand, she was sexually charged and provocative, with performance such as the MTV Video Music Awards in 2000, when her costume made her appear scantily-clad. As the young woman was growing up, it seemed there was an internal conflict between her, her management and her mother, all pulling her in different directions. Yet the image the public saw was a gorgeous young woman, beautifully dressed and damn close to perfection, often labeled the \"Pop Princess\" around the world. Still, the awards kept rolling in and, in early 2001, Britney struck a lucrative deal with Pepsi-Cola for sponsorship and advertising. The 19-year-old was growing up fast, with the media constantly fixed on what she was and wasn't doing, her \"rivalry\" with former fellow Mouseketeer Christina Aguilera and also her blossoming relationship with *NSYNC heartthrob Justin Timberlake. Britney was keen that people saw her as a growing woman as she began to ready the public for her next LP release in late 2001.\r\n\r\nIn November, she hit the top 10 with the sexually charged \"I'm a slave 4 u\" which took a completely different turn in musical direction from her previous singles and, in the same month, released her third LP, self-titled \"Britney\", which shot to the top of the albums charts, breaking records for a female artist. Her performance of \"Slave\" at the MTV VMA's caused outrage among animal rights campaigners, as she performed with a live giant snake and wearing little herself. It was a far cry from the Britney of just three years ago, and perhaps the critical moment when what some people would say \"she started going downhill\". Sales of her third album, while impressive, where not nearly as high as her former releases, perhaps due to the increase of new pop female singers flooding the market, yet Britney, still incredibly popular, carried on. In early 2002, the 20-year-old Britney released \"I'm not a girl, not yet a woman\", taken from the soundtrack of her debut movie Перекрёстки (2002), which was released in February of that year. She soon after hit the charts with \"Overprotected\" and also toured worldwide on the \"Dream within a dream tour\". Yet, it seemed it was all getting too much for Britney, her four year relationship with Timberlake ended suddenly and very publicly and she soon announced she was to take 6 months off, after all, she had achieved so much by such a young age and in such a short space of time. Her star was by no means fading, with \"Forbes\" declaring her \"The World's most powerful celebrity\" in mid-2002.\r\n\r\nWhile she may have been on a break from her career, she was by no means breaking from the media, who followed her relentlessly, even more keen to track her down and find out what she was up to. Britney was increasingly letting her pop princess crown slip, admitting she had lost her sacred virginity to Timberlake, outside of marriage. Britney could also be seen smoking and drinking to excess on wild nights out and famously breaking down in tears while being interviewed by Diane Sawyer about her parents (who were recently divorced) and her bitter split from Timberlake. Britney was linked to men such as Fred Durst of Limp Bizkit and openly kissed Colin Farrell at a movie premiere. However, she seemed to get herself back together for her new album released in late 2003. In a blitz of publicity which included the infamous \"Like a Virgin\" performance and Madonna kiss at the MTV Video Music Awards in August that year. The new album, \"In The Zone\", was a bid to be seen as a woman and caused controversy with songs on it such as \"Breathe on Me\" and \"Touch of my hand\" - which was about masturbation - however, the appeal of Britney was still there and the album topped the Billboard 200 albums charts. The first single to be lifted was \"Me against the music\" a club hit that featured pop icon Madonna and singing with her was a dream come true for Britney. Now 22, it seemed Britney was in a lot more control over her career, yet her personal life still seemed to be slipping. On January 3, 2004, Britney got married to childhood friend, Jason Alexander in a Las Vegas ceremony. The incident shocked the world, especially when the marriage was annulled 2 days later and was described as \"a joke taken too far\" by her management.\r\n\r\nBritney soon released one of her biggest singles, \"Toxic\", which topped various charts around the world including the UK and Canadian singles charts. The single was a smash-hit and silenced any critics that said Britney no longer had what it took to make a comeback. She soon began her highly publicized and overtly sexual \"Onyx Hotel Tour\", which was canceled a few months later after Britney damaged her knee during a video shoot and had to receive medical treatment. Other singles off the album included the gold-selling \"Everytime\", which topped the UK singles charts and, like usual, also carried a fair amount of controversy for its video, which allegedly depicted the star committing suicide after a fight with her boyfriend, played by Stephen Dorff; however, this was \"changed\" to an accident in which she drowns yet reincarnates. It was around this time that Britney began dating Kevin Federline, a former backup dancer who she had taken on tour with her a few months previously. The snag here was that Kevin came with baggage - in the form of an ex-girlfriend, heavily pregnant Moesha (1996) actress Shar Jackson and their young child. Kevin & Shar split before the birth of their second child, Kaleb. Britney & Kevin soon became engaged on June 7, 2004 and married on September 18, 2004 in a secret ceremony, but weren't officially married until October 6, 2004. That same month, Britney released a single off her upcoming \"Greatest Hits\" album (released in November 2004) a cover of Bobby Brown's 1988 hit \"My Prerogative\".\r\n\r\nBritney was a changed woman, no longer concerned with what the public thought of her or her appearance, she parted ways with her manager who she had had since she was 13, and was increasingly stepping out looking more \"trailer trash\" than multi-millionaire. In February 2005, Britney won her first Grammy for the single \"Toxic\" as Best Dance Recording. Just two months later, Britney & Kevin announced she was pregnant with their first child. A reality TV Series Britney & Kevin: Chaotic (2005), which featured the pair getting to know each other the previous year, leading up to their wedding aired on UPN and eventually got a world-wide audience, despite harsh criticism. On September 14, 2005, Britney gave birth to their oldest son, Sean Preston Federline. In November of that year, she released a remix album \"B in the mix, the Remixes\".\r\n\r\nOn September 12, 2006, Britney gave birth again to their youngest son, Jayden James Federline. Unfortunately, Britney & Kevin's marriage didn't last long after Jayden was born. Britney filed for divorce on November 7, 2006 & their divorce was finalized on July 30, 2007.\r\n\r\nLooking back over the years of this remarkable lady's career and life, it really is hard to imagine what the face of Pop would look like without her. Here is a woman who has grown in the face of the glaring media from innocent school-girl to sexual pop vixen to young ex-wife and mother. Who knows what is next for Britney? One thing is for certain: Britney has worked hard to get to where she is today and will continue to make her mark.\r\n- IMDb Mini Biography By: James Bryant",
+    "photo": "photos/2024/11/06/Britney_Spears_2013_Straighten_Crop.jpg",
+    "time_create": "2024-08-19T15:42:24.060Z",
+    "time_update": "2024-11-06T14:04:52.969Z",
+    "is_published": true,
+    "cat": 2,
+    "husband": 2,
+    "author": null,
+    "tag": []
+  }
+},
+{
+  "model": "women.women",
+  "pk": 6,
+  "fields": {
+    "title": "Anna Kournikova",
+    "slug": "anna-kournikova",
+    "content": "Anna Sergeyevna Kournikova (Russian: Анна Сергеевна Курникова, IPA: [ˈanːə sʲɪrˈɡʲejɪvnə ˈkurnʲɪkəvə] ⓘ; born 7 June 1981) is a Russian model and television personality, and former professional tennis player. Her appearance and celebrity status made her one of the best known tennis stars worldwide. At the peak of her fame, fans looking for images of Kournikova made her name one of the most common search strings on Google Search",
+    "photo": "photos/2024/11/06/Anna_Kournikova-Bagram_Airfield_2009.jpg",
+    "time_create": "2024-09-23T10:08:22.976Z",
+    "time_update": "2024-11-06T14:09:16.721Z",
+    "is_published": true,
+    "cat": 3,
+    "husband": 4,
+    "author": null,
+    "tag": [
+      1,
+      4,
+      5
+    ]
+  }
+},
+{
+  "model": "women.women",
+  "pk": 7,
+  "fields": {
+    "title": "Monica Bellucci",
+    "slug": "monica-bellucci",
+    "content": "Monica Anna Maria Bellucci (Italian: [ˈmɔːnika belˈluttʃi]; born 30 September 1964) is an Italian actress and model who began her career as a fashion model before working in Italian, American, and French films. She has an eclectic filmography in a range of genres and languages, and her accolades include the David di Donatello, Globo d'oro and Nastro d'Argento awards. In 2018, Forbes Italy included her in their list of the 100 most successful Italian women.",
+    "photo": "photos/2024/11/06/440px-Monica_Bellucci_San_Sebastian.jpg",
+    "time_create": "2024-10-02T09:47:14.322Z",
+    "time_update": "2024-11-06T14:03:41.761Z",
+    "is_published": true,
+    "cat": 1,
+    "husband": null,
+    "author": null,
+    "tag": []
+  }
+},
+{
+  "model": "women.women",
+  "pk": 8,
+  "fields": {
+    "title": "Penelope Cruz",
+    "slug": "penelope-cruz",
+    "content": "Penélope Cruz Sánchez[a][b] (born 28 April 1974) is a Spanish actress. Prolific in Spanish and English-language films, she has received various accolades, including an Academy Award and a BAFTA Award, in addition to nominations for a Primetime Emmy Award and four Golden Globe Awards.",
+    "photo": "photos/2024/11/06/Penelope_Cruz_in_2023.jpg",
+    "time_create": "2024-10-02T09:54:31.060Z",
+    "time_update": "2024-11-06T14:03:06.346Z",
+    "is_published": true,
+    "cat": 1,
+    "husband": null,
+    "author": null,
+    "tag": [
+      2
+    ]
+  }
+},
+{
+  "model": "women.women",
+  "pk": 9,
+  "fields": {
+    "title": "Madonna",
+    "slug": "madonna",
+    "content": "Madonna Louise Ciccone (born August 16, 1958) is an American singer, songwriter, and actress. Regarded as the \"Queen of Pop\", she has been recognized for her continual reinvention and versatility in music production, songwriting and visual presentation. Madonna's works, which incorporate social, political, sexual, and religious themes, have generated both controversy and critical acclaim. A cultural icon spanning both the 20th and 21st centuries, the Rock and Roll Hall of Fame called her one of the most \"well-documented figures of the modern age\" in 2008. Various scholarly reviews, literature, and art works have been created about her along with an academic mini subdiscipline devoted to her called Madonna studies.",
+    "photo": "photos/2024/11/06/MadonnaO2171023_97_of_133_53269593787_cropped.jpg.webp",
+    "time_create": "2024-10-02T10:06:23.941Z",
+    "time_update": "2024-11-06T14:02:33.341Z",
+    "is_published": true,
+    "cat": 2,
+    "husband": null,
+    "author": null,
+    "tag": [
+      1,
+      5
+    ]
+  }
+},
+{
+  "model": "women.women",
+  "pk": 10,
+  "fields": {
+    "title": "Serena Williams",
+    "slug": "serena-williams",
+    "content": "Serena Jameka Williams (born September 26, 1981) is an American former professional tennis player. Widely regarded as one of the greatest tennis players of all time,[a] she was ranked world No. 1 in singles by the Women's Tennis Association (WTA) for 319 weeks, including a joint-record 186 consecutive weeks, and finished as the year-end No. 1 five times. She won 23 Grand Slam women's singles titles, the most in the Open Era, and the second-most of all time. She is the only player to accomplish a Career Golden Slam in both singles and doubles.",
+    "photo": "photos/2024/11/06/Serena_Williams_at_2013_US_Open.jpg",
+    "time_create": "2024-10-15T13:29:15.572Z",
+    "time_update": "2024-11-06T14:01:47.906Z",
+    "is_published": true,
+    "cat": 3,
+    "husband": null,
+    "author": null,
+    "tag": []
+  }
+},
+{
+  "model": "women.women",
+  "pk": 11,
+  "fields": {
+    "title": "Vanessa Paradis",
+    "slug": "vanessa-paradis",
+    "content": "Vanessa Chantal Paradis (French pronunciation: [vanɛsa ʃɑ̃tal paʁadi]; born 22 December 1972) is a French singer, model and actress. Paradis became a star at the age of 14 with the international success of her single \"Joe le taxi\" (1987).[3] At age 18, she was awarded France's highest honours as both a singer and an actress with the Prix Romy Schneider  and the César Award for Most Promising Actress for Jean-Claude Brisseau's Noce Blanche, as well as the Victoires de la Musique for Best Female Singer for her album Variations sur le même t'aime. Her most notable films also include Élisa (1995) alongside Gérard Depardieu,[14] Witch Way Love (1997) opposite Jean Reno, Une chance sur deux (1998) co-starring with Jean-Paul Belmondo and Alain Delon, Girl on the Bridge (1999), Heartbreaker (2010) and Café de Flore (2011). Her tribute to Jeanne Moreau at the 1995 Cannes Film Festival during which they sang in duet \"Le Tourbillon\" became notable in French popular culture. In 2022, she was nominated for the Molière Award for Best Actress for her performance in the play Maman.",
+    "photo": "photos/2024/11/06/440px-Vanessa_Paradis_Cannes_2016_2.jpg",
+    "time_create": "2024-10-15T13:43:19.571Z",
+    "time_update": "2024-11-06T14:01:09.055Z",
+    "is_published": true,
+    "cat": 1,
+    "husband": null,
+    "author": null,
+    "tag": []
+  }
+},
+{
+  "model": "women.women",
+  "pk": 12,
+  "fields": {
+    "title": "Lana Del Rey",
+    "slug": "lana-del-rey",
+    "content": "Elizabeth Woolridge Grant (born June 21, 1985), known professionally as Lana Del Rey, is an American singer and songwriter. Her music is noted for its cinematic quality and exploration of tragic romance, glamour, and melancholia, with frequent references to pop culture and 1950s–1970s Americana. Her vintage Hollywood glamour aesthetic is showcased in her music videos. She is the recipient of various accolades, including an MTV Video Music Award, three MTV Europe Music Awards, two Brit Awards, two Billboard Women in Music awards and a Satellite Award, in addition to nominations for eleven Grammy Awards and a Golden Globe Award. Variety honored her at their Hitmakers Awards for being \"one of the most influential singer-songwriters of the 21st century\". In 2023, Rolling Stone placed Del Rey on their list of the \"200 Greatest Singers of All Time\", while their sister publication Rolling Stone UK named her as \"The Greatest American Songwriter of the 21st century\".",
+    "photo": "photos/2024/11/06/LanaDRPrimavera310524_32_of_147_53765476960_cropped.jpg",
+    "time_create": "2024-10-15T13:46:50.450Z",
+    "time_update": "2024-11-06T14:00:43.671Z",
+    "is_published": true,
+    "cat": 2,
+    "husband": null,
+    "author": null,
+    "tag": []
+  }
+},
+{
+  "model": "women.women",
+  "pk": 13,
+  "fields": {
+    "title": "Eva Longoria",
+    "slug": "eva-longoria",
+    "content": "Eva Jacqueline Longoria Bastón (née Longoria; born March 15, 1975) is an American actress, producer and director. After a number of guest roles on several television series, she was recognized for her portrayal of Isabella Braña on the CBS daytime soap opera The Young and the Restless, on which she starred from 2001 to 2003. She is most known for her role as Gabrielle Solis on the ABC television series Desperate Housewives, which ran from 2004 to 2012, and for which she received a Golden Globe nomination and won two Screen Actors Guild Awards with the cast.",
+    "photo": "photos/2024/11/06/Eva_Longoria_SZ9_1450_52476848986_cropped.jpg",
+    "time_create": "2024-11-01T13:34:54.055Z",
+    "time_update": "2024-11-06T14:00:05.618Z",
+    "is_published": true,
+    "cat": 1,
+    "husband": null,
+    "author": null,
+    "tag": []
+  }
+},
+{
+  "model": "women.women",
+  "pk": 17,
+  "fields": {
+    "title": "Rihanna",
+    "slug": "rihanna",
+    "content": "Robyn Rihanna Fenty (/riˈænə/ ⓘ ree-AN-ə; born February 20, 1988) is a Barbadian singer, businesswoman and actress based in the United States. She is noted as the best-selling female recording artist of the 21st century by Guinness World Records and the second wealthiest in the world. Rihanna is the highest-certified female digital single artist and has six U.S. diamond certified singles (seven as a featured artist). She has achieved 14 number-one singles on the Billboard Hot 100. The recipient of various accolades, Rihanna is one of the best-selling recording artists ever, with sales estimated at 250 million units globally.",
+    "photo": "photos/2024/11/04/Rihanna_Fenty_2024_02.jpg",
+    "time_create": "2024-11-04T15:30:44.853Z",
+    "time_update": "2024-11-06T13:59:13.349Z",
+    "is_published": true,
+    "cat": 2,
+    "husband": null,
+    "author": null,
+    "tag": []
+  }
+},
+{
+  "model": "women.women",
+  "pk": 18,
+  "fields": {
+    "title": "Meryl Streep",
+    "slug": "meryl-streep",
+    "content": "Mary Louise \"Meryl\" Streep (born June 22, 1949) is an American actress. Known for her versatility and adept accent work, she has been described as \"the best actress of her generation\". She has received numerous accolades throughout her career spanning over four decades, including a record 21 Academy Award nominations, winning three, and a record 34 Golden Globe Award nominations, winning eight.",
+    "photo": "photos/2024/11/07/Meryl_Streep_December_2018_cropped.jpg",
+    "time_create": "2024-11-07T09:06:42.782Z",
+    "time_update": "2024-11-07T09:06:42.782Z",
+    "is_published": true,
+    "cat": 1,
+    "husband": null,
+    "author": null,
+    "tag": []
+  }
+},
+{
+  "model": "women.women",
+  "pk": 19,
+  "fields": {
+    "title": "Maria Callas",
+    "slug": "maria-callas",
+    "content": "Maria Callas[a] Commendatore OMRI(born Maria Anna Cecilia Sofia Kalogeropoulos; December 2, 1923 – September 16, 1977) was an American-born Greek soprano and one of the most renowned and influential opera singers of the 20th century. Many critics praised her bel canto technique, wide-ranging voice and dramatic interpretations. Her repertoire ranged from classical opera seria to the bel canto operas of Donizetti, Bellini, and Rossini, and further to the works of Verdi and Puccini, and in her early career to the music dramas of Wagner. Her musical and dramatic talents led to her being hailed as La Divina (\"The Divine One\").",
+    "photo": "photos/2024/11/12/Maria_Callas_1958.jpg",
+    "time_create": "2024-11-12T08:59:03.718Z",
+    "time_update": "2024-11-12T08:59:03.718Z",
+    "is_published": true,
+    "cat": 2,
+    "husband": null,
+    "author": null,
+    "tag": []
+  }
+},
+{
+  "model": "women.women",
+  "pk": 20,
+  "fields": {
+    "title": "Christina Aguilera",
+    "slug": "christina-aguilera",
+    "content": "Christina María Aguilera (/ˌæɡɪˈlɛərə/ AG-il-AIR-ə, Spanish: [kɾisˈtina maˈɾi.a aɣiˈleɾa]; born December 18, 1980) is an American singer, songwriter, actress, and television personality. Recognized as an influential figure in music and having received widespread public interest, she is noted for her four-octave vocal range, use of the whistle register, and incorporating controversial themes into her music. Referred to as the \"Voice of a Generation\", she was also named a Disney Legend, in recognition for her contributions to The Walt Disney Company.",
+    "photo": "photos/2024/11/12/Christina_Aguilera_Sanremo_cropped_2.png",
+    "time_create": "2024-11-12T09:42:55.916Z",
+    "time_update": "2024-11-12T09:42:55.916Z",
+    "is_published": true,
+    "cat": 2,
+    "husband": null,
+    "author": null,
+    "tag": [
+      1
+    ]
+  }
+},
+{
+  "model": "women.women",
+  "pk": 21,
+  "fields": {
+    "title": "Elizabeth Taylor",
+    "slug": "elizabeth-taylor",
+    "content": "Dame Elizabeth Rosemond Taylor DBE (February 27, 1932 – March 23, 2011) was a British and American actress. She began her career as a child actress in the early 1940s and was one of the most popular stars of classical Hollywood cinema in the 1950s. She then became the world's highest-paid movie star in the 1960s, remaining a well-known public figure for the rest of her life. In 1999, the American Film Institute ranked her seventh on its greatest female screen legends list.",
+    "photo": "photos/2024/11/12/Taylor_Elizabeth_posed.jpg.webp",
+    "time_create": "2024-11-12T10:04:51.563Z",
+    "time_update": "2024-11-12T10:04:51.563Z",
+    "is_published": true,
+    "cat": 1,
+    "husband": null,
+    "author": null,
+    "tag": []
+  }
+},
+{
+  "model": "women.women",
+  "pk": 23,
+  "fields": {
+    "title": "New article",
+    "slug": "new-article",
+    "content": "New article content",
+    "photo": "",
+    "time_create": "2024-12-20T08:45:33.054Z",
+    "time_update": "2024-12-20T08:45:33.054Z",
+    "is_published": true,
+    "cat": 1,
+    "husband": null,
+    "author": 1,
+    "tag": []
+  }
+},
+{
+  "model": "women.category",
+  "pk": 1,
+  "fields": {
+    "name": "Acrtesses",
+    "slug": "actresses"
+  }
+},
+{
+  "model": "women.category",
+  "pk": 2,
+  "fields": {
+    "name": "Singers",
+    "slug": "singers"
+  }
+},
+{
+  "model": "women.category",
+  "pk": 3,
+  "fields": {
+    "name": "Sportwomen",
+    "slug": "sportwomen"
+  }
+},
+{
+  "model": "women.tagpost",
+  "pk": 1,
+  "fields": {
+    "tag": "Blond",
+    "slug": "blond"
+  }
+},
+{
+  "model": "women.tagpost",
+  "pk": 2,
+  "fields": {
+    "tag": "Brunette",
+    "slug": "brunette"
+  }
+},
+{
+  "model": "women.tagpost",
+  "pk": 3,
+  "fields": {
+    "tag": "Oscar",
+    "slug": "oscar"
+  }
+},
+{
+  "model": "women.tagpost",
+  "pk": 4,
+  "fields": {
+    "tag": "Olympics",
+    "slug": "olympics"
+  }
+},
+{
+  "model": "women.tagpost",
+  "pk": 5,
+  "fields": {
+    "tag": "Tall",
+    "slug": "tall"
+  }
+},
+{
+  "model": "women.tagpost",
+  "pk": 6,
+  "fields": {
+    "tag": "Average height",
+    "slug": "average_height"
+  }
+},
+{
+  "model": "women.tagpost",
+  "pk": 7,
+  "fields": {
+    "tag": "Short stature",
+    "slug": "short_stature"
+  }
+},
+{
+  "model": "women.husband",
+  "pk": 1,
+  "fields": {
+    "name": "Brad Pitt",
+    "age": 59,
+    "m_count": 2
+  }
+},
+{
+  "model": "women.husband",
+  "pk": 2,
+  "fields": {
+    "name": "Sam Asghari",
+    "age": 30,
+    "m_count": 1
+  }
+},
+{
+  "model": "women.husband",
+  "pk": 3,
+  "fields": {
+    "name": "Andrew Upton",
+    "age": 58,
+    "m_count": 1
+  }
+},
+{
+  "model": "women.husband",
+  "pk": 4,
+  "fields": {
+    "name": "Enrique Miguel Iglesias Preysler",
+    "age": 49,
+    "m_count": 0
+  }
+},
+{
+  "model": "women.uploadfiles",
+  "pk": 1,
+  "fields": {
+    "file": "uploads_model/85de7f59d3559fb3521328367add53a4.jpeg"
+  }
+},
+{
+  "model": "women.uploadfiles",
+  "pk": 2,
+  "fields": {
+    "file": "uploads_model/85de7f59d3559fb3521328367add53a4_frF56sX.jpeg"
+  }
+},
+{
+  "model": "women.uploadfiles",
+  "pk": 3,
+  "fields": {
+    "file": "uploads_model/85de7f59d3559fb3521328367add53a4.jpeg"
+  }
+}
+]
